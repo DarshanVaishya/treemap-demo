@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "treemap-squarify": "^1.0.1"
+  },
+  "name": "treemap-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Darshan Vaishya",
+  "license": "MIT"
+}
