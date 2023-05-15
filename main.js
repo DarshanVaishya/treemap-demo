@@ -1,7 +1,7 @@
 // Firtly we enter all the labels (including title)
 let labels = [
-	"Apparel", "Accesories", "Shoes", // Main categories "T-shirt",
-	"Shorts", "Sweatshirt", "Pants", "Jacket", // Subcategories of Apparel
+	"Apparel", "Accesories", "Shoes", // Main categories
+  "T-shirt", "Shorts", "Sweatshirt", "Pants", "Jacket", // Subcategories of Apparel
 	"Cap", "Handbag", "Gloves", "Scarf", "Jewlery", // Subcategories of Accesories
 	"Boots", "Sneakers", "Sandals", "Loafers", "Wedges", // Subcategories of Shoes
 ];
